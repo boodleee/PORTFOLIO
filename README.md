@@ -2,7 +2,7 @@
 
 Hi! This is Giovrei Ortega from BSIT - 1112.
 
-To access my portfolio website, click this link:
+To access my portfolio website, click this link: https://boodleee.github.io/PORTFOLIO/
 
 Once you've accessed the FLOW website, you'll be welcomed by the Homepage. This page includes the promotion for the SDG as well as its details. note: don't forget to get yourselves a glass of water ;)
 
